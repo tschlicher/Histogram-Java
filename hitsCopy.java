@@ -2,6 +2,10 @@ import java.util.Scanner;
 import utils.TextKit;
 import java.util.Arrays;
 
+// spelled hist wrong, this new comment should be in my 'branchPractice and 
+//not in master yet. 
+// another change was made in a branch.
+
 class hitsCopy{
 	
 	public static void main(String [] args){
