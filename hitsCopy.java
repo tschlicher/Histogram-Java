@@ -9,7 +9,7 @@ class hitsCopy{
 		
 		Scanner input = new Scanner(System.in);// retrieves user input
 		
-		int[] numbers = new int[25 + 1]; //using an array to store 200 values which is how many elements my array can hold.
+		int[] numbers = new int[25 + 1]; //using an array to store values.
 		System.out.println("Please enter integers between 1 - 25, oner per a line, hit conttol Z to stop. (^Z to stop): ");
 		//continues to get input until ^Z has been entered
 		while(input.hasNextLine()){
